@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/GPSTracker/.google_apis/latitude-v1r17lv1.15.0-rc/latitude
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/GPSTracker/.google_apis/latitude-v1r17lv1.15.0-rc/latitude/LICENSE.txt
+END
+google-api-services-latitude-v1-rev17-1.15.0-rc-javadoc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/3/trunk/GPSTracker/.google_apis/latitude-v1r17lv1.15.0-rc/latitude/google-api-services-latitude-v1-rev17-1.15.0-rc-javadoc.jar
+END
+google-api-services-latitude-v1-rev17-1.15.0-rc-sources.jar
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/3/trunk/GPSTracker/.google_apis/latitude-v1r17lv1.15.0-rc/latitude/google-api-services-latitude-v1-rev17-1.15.0-rc-sources.jar
+END
+google-api-services-latitude-v1-rev17-1.15.0-rc.jar.properties
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/3/trunk/GPSTracker/.google_apis/latitude-v1r17lv1.15.0-rc/latitude/google-api-services-latitude-v1-rev17-1.15.0-rc.jar.properties
+END
+descriptor.json
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/GPSTracker/.google_apis/latitude-v1r17lv1.15.0-rc/latitude/descriptor.json
+END
+classpath-include
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/GPSTracker/.google_apis/latitude-v1r17lv1.15.0-rc/latitude/classpath-include
+END
+google-api-services-latitude-v1-rev17-1.15.0-rc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/3/trunk/GPSTracker/.google_apis/latitude-v1r17lv1.15.0-rc/latitude/google-api-services-latitude-v1-rev17-1.15.0-rc.jar
+END
+readme.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/GPSTracker/.google_apis/latitude-v1r17lv1.15.0-rc/latitude/readme.html
+END
+proguard-google-api-client.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3/trunk/GPSTracker/.google_apis/latitude-v1r17lv1.15.0-rc/latitude/proguard-google-api-client.txt
+END

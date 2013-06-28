@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/20/trunk/GPSTracker/src/test/gpstracker/model
+END
+HistoryDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/22/trunk/GPSTracker/src/test/gpstracker/model/HistoryDAO.java
+END
+LocationDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/22/trunk/GPSTracker/src/test/gpstracker/model/LocationDAO.java
+END
+SortedHistoryItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/22/trunk/GPSTracker/src/test/gpstracker/model/SortedHistoryItem.java
+END
+LocationItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/22/trunk/GPSTracker/src/test/gpstracker/model/LocationItem.java
+END
+LocationItemList.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/GPSTracker/src/test/gpstracker/model/LocationItemList.java
+END
+HistoryItemList.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/GPSTracker/src/test/gpstracker/model/HistoryItemList.java
+END

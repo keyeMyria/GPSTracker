@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3/trunk/GPSTracker/.google_apis/coordinate-v1r24lv1.15.0-rc/coordinate/dependencies/css
+END
+print.css
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3/trunk/GPSTracker/.google_apis/coordinate-v1r24lv1.15.0-rc/coordinate/dependencies/css/print.css
+END
+maven-base.css
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/3/trunk/GPSTracker/.google_apis/coordinate-v1r24lv1.15.0-rc/coordinate/dependencies/css/maven-base.css
+END
+site.css
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3/trunk/GPSTracker/.google_apis/coordinate-v1r24lv1.15.0-rc/coordinate/dependencies/css/site.css
+END
+maven-theme.css
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/3/trunk/GPSTracker/.google_apis/coordinate-v1r24lv1.15.0-rc/coordinate/dependencies/css/maven-theme.css
+END

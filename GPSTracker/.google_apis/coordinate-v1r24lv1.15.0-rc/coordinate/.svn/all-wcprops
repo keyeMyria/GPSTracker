@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/GPSTracker/.google_apis/coordinate-v1r24lv1.15.0-rc/coordinate
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/GPSTracker/.google_apis/coordinate-v1r24lv1.15.0-rc/coordinate/LICENSE.txt
+END
+google-api-services-coordinate-v1-rev24-1.15.0-rc-javadoc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/3/trunk/GPSTracker/.google_apis/coordinate-v1r24lv1.15.0-rc/coordinate/google-api-services-coordinate-v1-rev24-1.15.0-rc-javadoc.jar
+END
+google-api-services-coordinate-v1-rev24-1.15.0-rc.jar.properties
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/3/trunk/GPSTracker/.google_apis/coordinate-v1r24lv1.15.0-rc/coordinate/google-api-services-coordinate-v1-rev24-1.15.0-rc.jar.properties
+END
+google-api-services-coordinate-v1-rev24-1.15.0-rc-sources.jar
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/3/trunk/GPSTracker/.google_apis/coordinate-v1r24lv1.15.0-rc/coordinate/google-api-services-coordinate-v1-rev24-1.15.0-rc-sources.jar
+END
+descriptor.json
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3/trunk/GPSTracker/.google_apis/coordinate-v1r24lv1.15.0-rc/coordinate/descriptor.json
+END
+classpath-include
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3/trunk/GPSTracker/.google_apis/coordinate-v1r24lv1.15.0-rc/coordinate/classpath-include
+END
+readme.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/GPSTracker/.google_apis/coordinate-v1r24lv1.15.0-rc/coordinate/readme.html
+END
+google-api-services-coordinate-v1-rev24-1.15.0-rc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/3/trunk/GPSTracker/.google_apis/coordinate-v1r24lv1.15.0-rc/coordinate/google-api-services-coordinate-v1-rev24-1.15.0-rc.jar
+END
+proguard-google-api-client.txt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3/trunk/GPSTracker/.google_apis/coordinate-v1r24lv1.15.0-rc/coordinate/proguard-google-api-client.txt
+END

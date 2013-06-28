@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/4/trunk/GPSTracker/bin
+END
+GPSTracker2.apk
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/GPSTracker/bin/GPSTracker2.apk
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/8/trunk/GPSTracker/bin/AndroidManifest.xml
+END
+resources.ap_
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/GPSTracker/bin/resources.ap_
+END
+proguard.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/GPSTracker/bin/proguard.txt
+END
+GPSTracker.apk
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/GPSTracker/bin/GPSTracker.apk
+END
+jarlist.cache
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/GPSTracker/bin/jarlist.cache
+END
+classes.dex
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/GPSTracker/bin/classes.dex
+END

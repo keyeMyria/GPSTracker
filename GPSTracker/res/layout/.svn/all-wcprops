@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/18/trunk/GPSTracker/res/layout
+END
+activity_main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/GPSTracker/res/layout/activity_main.xml
+END
+map_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/GPSTracker/res/layout/map_layout.xml
+END
+activity_start.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/18/trunk/GPSTracker/res/layout/activity_start.xml
+END
+group_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/GPSTracker/res/layout/group_item.xml
+END
+child_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/GPSTracker/res/layout/child_item.xml
+END

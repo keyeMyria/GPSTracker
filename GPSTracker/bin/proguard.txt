@@ -1,0 +1,18 @@
+# view res/layout/map_layout.xml #generated:7
+-keep class com.google.android.gms.maps.MapFragment { <init>(...); }
+
+# view AndroidManifest.xml #generated:39
+-keep class test.gpstracker.GetLocationService { <init>(...); }
+
+# view AndroidManifest.xml #generated:41
+-keep class test.gpstracker.LocationBroadcast { <init>(...); }
+
+# view AndroidManifest.xml #generated:28
+-keep class test.gpstracker.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:32
+-keep class test.gpstracker.MapActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:18
+-keep class test.gpstracker.StartActivity { <init>(...); }
+

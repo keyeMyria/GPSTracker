@@ -1,0 +1,59 @@
+package test.gpstracker;
+
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.List;
+
+import test.gpstracker.adapter.*;
+import test.gpstracker.database.DBUtil;
+import test.gpstracker.model.HistoryDAO;
+import test.gpstracker.model.HistoryItem;
+import test.gpstracker.model.LocationDAO;
+import test.gpstracker.model.LocationItem;
+import test.gpstracker.model.LocationItemList;
+import test.gpstracker.model.SortedHistoryItem;
+
+import android.app.Activity;
+import android.content.Intent;
+import android.os.Bundle;
+import android.util.Log;
+import android.view.View;
+import android.widget.ExpandableListView;
+import android.widget.ExpandableListView.OnChildClickListener;
+import android.widget.ExpandableListView.OnGroupClickListener;
+
+public class MainActivity extends Activity implements OnGroupClickListener{
+
+	ExpandableListView listView;
+	GPSExpandableListAdapter adapter;
+	ArrayList<SortedHistoryItem> data;
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		// TODO Auto-generated method stub
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.activity_main);
+		data = new ArrayList<SortedHistoryItem>();
+		listView = (ExpandableListView)findViewById(R.id.expandableListView1);
+		listView.setOnGroupClickListener(this);
+		adapter = new GPSExpandableListAdapter(this, this, data);
+
+
+	}
+	@Override
+	public boolean onGroupClick(ExpandableListView parent, View v,
+			int groupPosition, long id) {
+		// TODO Auto-generated method stub
+		Bundle bundle = new Bundle();
+		bundle.putSerializable("location", data.get(groupPosition));
+		Intent i = new Intent(MainActivity.this,MapActivity.class);
+		i.putExtra("location", bundle);
+		startActivity(i);
+		return true;
+
+	}
+	
+	private void create() {
+		
+	}
+
+}
