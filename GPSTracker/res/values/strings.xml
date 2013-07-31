@@ -10,7 +10,9 @@
     <string name="hello_world">Hello world!</string>
     <string name="db_filename">GPSTracker.db</string>
 	<string name="db_version">1</string>
-	<string name="db_version256">1</string>
+	<string name="db_version2">1</string>
+	<string name="db_version3">yen test</string>
+	<string name="db_version4">test test </string>
 
 
 
